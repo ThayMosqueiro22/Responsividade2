@@ -1,0 +1,26 @@
+/* .teste{
+    transition: opacity 0.5s ease-in;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    left: 0;
+    animation: moveRight 2s ease-in infinite;
+}
+
+/* .teste:hover{
+    opacity: .5;
+} */
+
+/* @keyframes moveRight{
+    0%{
+        left: 0;
+    }
+    100%{
+        left: calc(100% - 200px);
+    }
+} */ 
+
+.teste{
+    width: 100vw;
+}
